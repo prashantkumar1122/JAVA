@@ -2,7 +2,7 @@ package com.company;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class User_Input_Value_Square 
+public class User_input_value_Square 
 {
     public static void main(String[] args)
     {
